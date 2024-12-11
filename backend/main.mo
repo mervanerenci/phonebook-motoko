@@ -1,7 +1,7 @@
 import Map "mo:base/HashMap";
 import Text "mo:base/Text";
 
-actor {
+actor Phonebook {
 
     type Name = Text;
     type Phone = Text;
